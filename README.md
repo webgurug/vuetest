@@ -2,7 +2,7 @@
 
 > An online store and shopping cart
 
-![Screenshot](https://github.com/webgurug/vue-onlne-store-screenshot.png?raw=true)
+![Screenshot](https://github.com/webgurug/vuetest/vue-onlne-store-screenshot.png?raw=true)
 
 ## Build Setup
 
